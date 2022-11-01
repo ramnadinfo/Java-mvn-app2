@@ -9,8 +9,9 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">Hello Vanathi</h2>
-      <p class="text-center">Get ready for a DevOps ride! New Change! DCP-Batch-SEP.2022 From Shan - webhook update</p>
+      <h2 class="text-center">Hello EveryOne !!</h2>
+      <p class="text-center">Get ready for a DevOps ride! New Change! DCP-Batch-SEP.2022</p>
+      <p>Its Awesome !!!</p>
   </div>
 </body>
 </html>
